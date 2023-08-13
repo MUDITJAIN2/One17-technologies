@@ -1,2 +1,2 @@
-# larch_soft_pvt_ltd
+# One17 technologies
 project is present in master branch 
